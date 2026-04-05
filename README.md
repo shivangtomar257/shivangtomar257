@@ -1,39 +1,56 @@
-## 👋 Hi there, I'm Shivang Tomar!
-
-🚀 Passionate Developer | 🌱 Lifelong Learner | 🛠️ Open Source Enthusiast
-
-Welcome to my GitHub! I'm a dedicated software engineer who loves to build, break, and innovate. Whether it's crafting sleek web apps, automating workflows, or diving into the depths of data science, I thrive on turning ideas into impactful solutions.
-
-### 🚩 About Me
-- 🖥️ Currently working with modern web technologies and frameworks
-- 🤝 Actively contributing to open source & collaborating on community projects
-- 💡 Always exploring new tech, tools, and best practices
-- 📚 Ready to learn from anyone, anywhere
-
-### ⚡ Tech Stack
-- **Languages:** JavaScript, Python, TypeScript, C++
-- **Frameworks:** React, Node.js, Next.js, Express
-- **Tools:** Git, Docker, VS Code, GitHub Actions
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Others:** REST APIs, GraphQL, CI/CD
-
-### 🌟 Featured Projects
-<!--
-Add bullet points here with links to your best repositories, for example:
-- [Project Name](https://github.com/shivangtomar257/project) - Short description
--->
-
-### 📈 GitHub Stats
-![Shivang's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivangtomar257&show_icons=true&theme=radical)
-
-### 📫 Let's connect!
-- 🌐 [Portfolio](https://your-website.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
-- 💬 Feel free to reach out for collaboration, discussion, or just to say hi!
+<h1 align="center">Hi 👋, I'm Shivang Tomar</h1>
+<h3 align="center">A passionate programmer, full-stack developer, and tech enthusiast 🚀</h3>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 🚩 What I Do
 
-Thanks for stopping by — happy coding! 🚀
+- 💻 I build things with **Python, Java, JavaScript, TypeScript, CSS, and more**
+- 🌎 I develop full-stack web and mobile apps, create management systems, and solve algorithmic challenges
+- 📚 I am always learning and experimenting with new technology
+
+---
+
+### 🏆 Featured Projects
+
+Here are some cool highlights from my work:
+
+| Project | Tech | Description/Link |
+|---------|------|------------------|
+| Daily-Leetcode-Solutions | Python | Daily coding solutions to ace interviews. [Repo](https://github.com/shivangtomar257/Daily-Leetcode-Solutions) |
+| Real-Estate-Project | Python | Real-estate management application. [Repo](https://github.com/shivangtomar257/Real-Estate-Project) |
+| School Management App | Python | School operations management system. [Repo](https://github.com/shivangtomar257/School-Management-Application) |
+| Vaccination Management | Java | Vaccine booking and records management. [Repo](https://github.com/shivangtomar257/Vaccination-Management) |
+| ECommerce Store | HTML | Online store web app. [Repo](https://github.com/shivangtomar257/ECommerce-Store) |
+| Movie Explorer App | JavaScript | Find your next favorite movie! [Repo](https://github.com/shivangtomar257/Movie-Explorer-App) |
+| DjangoBlog | Python | Blogging platform built with Django. [Repo](https://github.com/shivangtomar257/DjangoBlog) |
+| BlogVlog | CSS | Custom blog and vlog portfolio. [Repo](https://github.com/shivangtomar257/BlogVlog) |
+| Monkey-Chat | Python | Real-time chat application. [Repo](https://github.com/shivangtomar257/Monkey-Chat) |
+| E-Learning Fullstack | TypeScript | Complete e-learning management system. [Repo](https://github.com/shivangtomar257/E-Learning-Management-Fullstack-System) |
+| Point-of-Sale System | JavaScript | Sales and inventory tracking app. [Repo](https://github.com/shivangtomar257/Point-of-Sale-System) |
+| Fake News Detector | Jupyter Notebook | ML project to detect fake news. [Repo](https://github.com/shivangtomar257/Fake-News-Detector) |
+| MyEtherWallet | Vue | Ethereum wallet clone. [Repo](https://github.com/shivangtomar257/MyEtherWallet) |
+
+> ...and many more!  
+> [Browse all my projects](https://github.com/shivangtomar257?tab=repositories)
+
+---
+
+### 📊 Stats & Skills
+
+- **Languages:** Python, Java, JavaScript, TypeScript, HTML, CSS, Vue, Jupyter Notebook
+- **Frameworks:** Django, Spring Boot, Vue, Bootstrap, etc.
+- **Areas:** Web Apps, Management Systems, Chat Apps, Machine Learning, Blockchain
+
+---
+
+### 🤝 Let's Connect
+
+- GitHub: [shivangtomar257](https://github.com/shivangtomar257)
+- Feel free to star ⭐, fork 🍴 or send a pull request!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivangtomar257&show_icons=true&theme=radical" alt="github stats" />
+</p>
